@@ -55,6 +55,7 @@ let generateUnderScore = () => {
         generateUnderScore();
         livesPush[0].innerHTML = lives;
         scorePush[0].innerHTML = score;
+        wrongPush[0].innerHTML = wrong;
         wordsPush[0].innerHTML = underScore.join('  ');
         resetGame = false;
         
