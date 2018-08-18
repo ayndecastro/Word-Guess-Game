@@ -1,0 +1,15 @@
+*{
+    font-family: 'press start 2p';
+}
+body {
+    background: url(../images/car-wallpaper.jpg);
+}
+.main {
+    background: rgba(15, 11, 11, 0.767);
+}
+.two {
+height: 450px;
+}
+.gameover {
+    margin-top: 150px;
+}
